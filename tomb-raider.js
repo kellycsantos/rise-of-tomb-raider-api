@@ -11,7 +11,7 @@ const data = [
     no séc. XIII nas margens do lago Svetloyar por Yuri II o Grande Príncipe de Vladimir, e que segundo as lendas, contém os 
     segredos para a imortalidade. Numa corrida contra a Trindade, que quer encontrar a cidade primeiro, Lara tem de sobreviver 
     contra humanos, animais e o ambiente para descobrir a verdade sobre o mito e tornar-se naquilo a que está destinada.`,
-        trailer: ['https://www.youtube.com/watch?v=1_FIyNcQSgA', 'https://www.youtube.com/watch?v=iXWyo4Lgo44 '],
+        trailer: ['https://www.youtube.com/embed/1_FIyNcQSgA', 'https://www.youtube.com/embed/iXWyo4Lgo44'],
         weapons: [
             { name: "Remington R1", img: 'https://raw.githubusercontent.com/kellycsantos/image-base/main/tomb-raider/weapons/remington-model-1911-r1-enhanced-removebg-preview.png' },
             { name: "Winchester Model 1912", img: 'https://raw.githubusercontent.com/kellycsantos/image-base/main/tomb-raider/weapons/winchester-model-1912-removebg-preview.png' },
