@@ -3,6 +3,7 @@ const cors = require("cors");
 
 const dados = require("./tomb-raider")
 const app = express()
+const PORT = process.env.PORT || 8085
 
 app.use(express.json())
 app.use(
@@ -19,4 +20,6 @@ app.get("/", (req,res) =>{
     })
 })
 
-app.listen(3035)
+app.listen(PORT)
+
+
